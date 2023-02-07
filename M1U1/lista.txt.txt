@@ -3,5 +3,3 @@ queso
 carne
 fruta
 gaseosa
-leche
-papa
